@@ -9,7 +9,7 @@ The suggested approach is to use a Greedy algorithm.
 If interested in my approach and comments I invite you to visit the
 following post in my blog:
 
-<T.B.D.>
+https://www.johncanessa.com/2021/03/16/maximum-score-of-a-good-subarray/
 
 Keep in mind that one of the best ways to learn is to read and experiemnt.
 
